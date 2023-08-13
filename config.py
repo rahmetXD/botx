@@ -1,3 +1,34 @@
+# -*- coding: utf-8 -*-
+
+# (c) @maybeslow (Github) | https://t.me/birsamil | @birsamil (Telegram)
+
+# ==============================================================================
+#
+# Project: EtiketTaggerBot
+# Copyright (C) 2021-2022 by maybeslow@Github, < https://github.com/maybeslow >.
+#
+# This file is part of < https://github.com/maybeslow/Tagger > project,
+# and is released under the "GNU v3.0 License Agreement".
+# Please see <https://github.com/maybeslow >
+#
+# All rights reserved.
+#
+# ==============================================================================
+#
+# Proje: EtiketTaggerBot
+# Telif Hakkı (C) 2021-2022 maybeslow@Github, <https://github.com/maybeslow>.
+#
+# Bu dosya <https://github.com/maybeslow/Tagger> projesinin bir parçası,
+# ve "GNU V3.0 Lisans Sözleşmesi" kapsamında yayınlanır.
+# Lütfen bkz. <https://github.com/maybeslow/Tagger >
+#
+# Her hakkı saklıdır.
+#
+# ========================================================================
+
+
+
+
 import os
 import heroku3
 from telethon import TelegramClient, events, Button
